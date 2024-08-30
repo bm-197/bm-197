@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bisrat955" target="blank"><img src="https://img.shields.io/twitter/follow/bisrat955?logo=twitter&style=for-the-badge" alt="bisrat955" /></a> </p>
 
-- 🌱 I’m currently learning **ALX-software engineering course**
+- 🌱 A graduate of **ALX-software engineering course**
 
 - 📫 How to reach me **bisratmaru111@gmail.com**
 
