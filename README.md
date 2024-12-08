@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">Computer Science Student at Addis Ababa University(AAU)</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/blob?bcid=TxUumTtuJAwFqxcxoNWLuD9SqbotqVTdP6I">
+<img align="right" alt="Coding" width="400" src="[https://www.bing.com/images/blob?bcid=TxUumTtuJAwFqxcxoNWLuD9SqbotqVTdP6I](https://images.app.goo.gl/QRrrQGU28gup4Vv3A)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bm-197&label=Profile%20views&color=0e75b6&style=flat" alt="bm-197" /> </p>
 
