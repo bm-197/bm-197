@@ -1,4 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">Computer Science Student at Addis Ababa University(AAU)</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/images/blob?bcid=TxUumTtuJAwFqxcxoNWLuD9SqbotqVTdP6I">
