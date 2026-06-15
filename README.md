@@ -7,8 +7,8 @@
 <br />
 
 <a href="https://bmaru.me">
- <img src="https://bmaru.me/white-avatar.png" alt="Website" height="23" />
- <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" />
+  <img src="https://bmaru.me/white-avatar.png" alt="Website logo" height="30" style="vertical-align: middle; transform: translateY(-1px);" />
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website badge" style="vertical-align: middle;" />
 </a>
 <a href="https://x.com/ibisrat">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
