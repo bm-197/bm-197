@@ -44,7 +44,7 @@ Automation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,postgres,docker,linux,git,github,bash" />
+<img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,python,postgres,docker,linux,bash" />
 
 </div>
 
