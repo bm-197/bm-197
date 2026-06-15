@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://bmaru.me">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+ <img src="https://bmaru.me/avatar.png" alt="Website" height="28" />
 </a>
 <a href="https://x.com/ibisrat">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
