@@ -29,8 +29,8 @@ Currently building tools across Go, TypeScript, CLI tooling, and browser tooling
 ## Focus
 
 ```txt
-Go
 TypeScript
+Go
 Backend Engineering
 Systems Programming
 Developer Tooling
@@ -44,7 +44,7 @@ Automation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,python,postgres,docker,linux,bash" />
+<img src="https://skillicons.dev/icons?i=ts,go,nodejs,react,nextjs,python,postgres,docker,linux,bash" />
 
 </div>
 
