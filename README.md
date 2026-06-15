@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Bisrat</h1>
-<h3 align="center">A Fullstack Software Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bm-197&label=Profile%20views&color=0e75b6&style=flat" alt="bm-197" /> </p>
+# Bisrat M Shibeshi
 
-<p align="left"> <a href="https://twitter.com/bisrat955" target="blank"><img src="https://img.shields.io/twitter/follow/bisrat955?logo=twitter&style=for-the-badge" alt="bisrat955" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Developer+Tools;Rust+%7C+TypeScript;Open+Source" />
 
-- 📫 How to reach me **bisratmaru111@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bisrat955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bisrat955" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bisrat-shibeshi-64783621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bisrat-shibeshi-64783621b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bisrat_196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bisrat_196" height="30" width="40" /></a>
-</p>
+<a href="https://bmaru.me">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://x.com/ibisrat">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/sponsors/bm-197">
+  <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+</div>
+
+---
+
+## About
+
+Software Engineer building developer tools, automation systems, and small products that remove friction from real workflows.
+
+Currently building tools across Go, TypeScript, CLI tooling, and browser tooling.
+
+## Focus
+
+```txt
+Go
+TypeScript
+Backend Engineering
+Systems Programming
+Developer Tooling
+Performance
+Automation
+```
+
+---
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs,postgres,docker,linux,git,github,bash" />
+
+</div>
+
+---
+
+<div align="center">
+
+<code>Build small. Ship fast. Refine the details.</code>
+
+</div>
